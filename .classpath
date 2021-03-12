@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src/main"/>
+	<classpathentry kind="var" path="MAVEN_REPOSITORY/junit/junit/4.12/junit-4.12.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/com.microsoft.sqlserver:mssql-jdbc:6.4.0.jre7"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/postgresql:postgresql:9.0-801.jdbc4"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/mysql:mysql-connector-java:8.0.19"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/ojdbc6-11.2.0.3"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/org.springframework.boot:spring-boot-starter-test:2.2.0.RELEASE"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/org.apache.commons:commons-vfs2:2.0"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/commons-io-2.5"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/org.dbunit:dbunit:2.4.9"/>
+	<classpathentry kind="output" path="out/production/CompareDBDDL"/>
+</classpath>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="com.microsoft.sqlserver:mssql-jdbc:6.4.0.jre7">
+    <archive path="C:/Users/Admin/.m2/repository/com/microsoft/sqlserver/mssql-jdbc/6.4.0.jre7/mssql-jdbc-6.4.0.jre7.jar" />
+  </library>
+  <library name="commons-io-2.5">
+    <archive path="C:/project/CompareDBDDL/lib/commons-io-2.5.jar" />
+  </library>
+  <library name="mysql:mysql-connector-java:8.0.19">
+    <archive path="C:/Users/Admin/.m2/repository/mysql/mysql-connector-java/8.0.19/mysql-connector-java-8.0.19.jar" />
+    <archive path="C:/Users/Admin/.m2/repository/com/google/protobuf/protobuf-java/3.6.1/protobuf-java-3.6.1.jar" />
+  </library>
+  <library name="ojdbc6-11.2.0.3">
+    <archive path="C:/project/CompareDBDDL/lib/ojdbc6-11.2.0.3.jar" />
+  </library>
+  <library name="org.apache.commons:commons-vfs2:2.0">
+    <archive path="C:/project/CompareDBDDL/lib/commons-vfs2-2.0.jar" />
+    <archive path="C:/project/CompareDBDDL/lib/commons-logging-1.1.1.jar" />
+    <archive path="C:/project/CompareDBDDL/lib/maven-scm-api-1.4.jar" />
+    <archive path="C:/project/CompareDBDDL/lib/plexus-utils-1.5.6.jar" />
+    <archive path="C:/project/CompareDBDDL/lib/maven-scm-provider-svnexe-1.4.jar" />
+    <archive path="C:/project/CompareDBDDL/lib/maven-scm-provider-svn-commons-1.4.jar" />
+    <archive path="C:/project/CompareDBDDL/lib/regexp-1.3.jar" />
+  </library>
+  <library name="org.dbunit:dbunit:2.4.9">
+    <archive path="C:/project/CompareDBDDL/lib/dbunit-2.4.9.jar" />
+    <archive path="C:/project/CompareDBDDL/lib/junit-3.8.2.jar" />
+    <archive path="C:/project/CompareDBDDL/lib/commons-collections-3.2.1.jar" />
+  </library>
+  <library name="org.springframework.boot:spring-boot-starter-test:2.2.0.RELEASE">
+    <archive path="C:/project/CompareDBDDL/lib/spring-boot-starter-test-2.2.0.RELEASE.jar" />
+    <archive path="C:/project/CompareDBDDL/lib/spring-boot-starter-2.2.0.RELEASE.jar" />
+    <archive path="C:/project/CompareDBDDL/lib/spring-boot-2.2.0.RELEASE.jar" />
+    <archive path="C:/project/CompareDBDDL/lib/spring-context-5.2.0.RELEASE.jar" />
+    <archive path="C:/project/CompareDBDDL/lib/spring-aop-5.2.0.RELEASE.jar" />
+    <archive path="C:/project/CompareDBDDL/lib/spring-beans-5.2.0.RELEASE.jar" />
+    <archive path="C:/project/CompareDBDDL/lib/spring-expression-5.2.0.RELEASE.jar" />
+    <archive path="C:/project/CompareDBDDL/lib/spring-boot-autoconfigure-2.2.0.RELEASE.jar" />
+    <archive path="C:/project/CompareDBDDL/lib/spring-boot-starter-logging-2.2.0.RELEASE.jar" />
+    <archive path="C:/project/CompareDBDDL/lib/logback-classic-1.2.3.jar" />
+    <archive path="C:/project/CompareDBDDL/lib/logback-core-1.2.3.jar" />
+    <archive path="C:/project/CompareDBDDL/lib/log4j-to-slf4j-2.12.1.jar" />
+    <archive path="C:/project/CompareDBDDL/lib/log4j-api-2.12.1.jar" />
+    <archive path="C:/project/CompareDBDDL/lib/jul-to-slf4j-1.7.28.jar" />
+    <archive path="C:/project/CompareDBDDL/lib/jakarta.annotation-api-1.3.5.jar" />
+    <archive path="C:/project/CompareDBDDL/lib/snakeyaml-1.25.jar" />
+    <archive path="C:/project/CompareDBDDL/lib/spring-boot-test-2.2.0.RELEASE.jar" />
+    <archive path="C:/project/CompareDBDDL/lib/spring-boot-test-autoconfigure-2.2.0.RELEASE.jar" />
+    <archive path="C:/project/CompareDBDDL/lib/json-path-2.4.0.jar" />
+    <archive path="C:/project/CompareDBDDL/lib/json-smart-2.3.jar" />
+    <archive path="C:/project/CompareDBDDL/lib/accessors-smart-1.2.jar" />
+    <archive path="C:/project/CompareDBDDL/lib/asm-5.0.4.jar" />
+    <archive path="C:/project/CompareDBDDL/lib/slf4j-api-1.7.25.jar" />
+    <archive path="C:/project/CompareDBDDL/lib/jakarta.xml.bind-api-2.3.2.jar" />
+    <archive path="C:/project/CompareDBDDL/lib/jakarta.activation-api-1.2.1.jar" />
+    <archive path="C:/project/CompareDBDDL/lib/junit-jupiter-5.5.2.jar" />
+    <archive path="C:/project/CompareDBDDL/lib/junit-jupiter-api-5.5.2.jar" />
+    <archive path="C:/project/CompareDBDDL/lib/opentest4j-1.2.0.jar" />
+    <archive path="C:/project/CompareDBDDL/lib/junit-platform-commons-1.5.2.jar" />
+    <archive path="C:/project/CompareDBDDL/lib/junit-jupiter-params-5.5.2.jar" />
+    <archive path="C:/project/CompareDBDDL/lib/junit-jupiter-engine-5.5.2.jar" />
+    <archive path="C:/project/CompareDBDDL/lib/junit-vintage-engine-5.5.2.jar" />
+    <archive path="C:/project/CompareDBDDL/lib/apiguardian-api-1.1.0.jar" />
+    <archive path="C:/project/CompareDBDDL/lib/junit-platform-engine-1.5.2.jar" />
+    <archive path="C:/project/CompareDBDDL/lib/junit-4.12.jar" />
+    <archive path="C:/project/CompareDBDDL/lib/mockito-junit-jupiter-3.1.0.jar" />
+    <archive path="C:/project/CompareDBDDL/lib/assertj-core-3.13.2.jar" />
+    <archive path="C:/project/CompareDBDDL/lib/hamcrest-2.1.jar" />
+    <archive path="C:/project/CompareDBDDL/lib/mockito-core-3.1.0.jar" />
+    <archive path="C:/project/CompareDBDDL/lib/byte-buddy-1.9.10.jar" />
+    <archive path="C:/project/CompareDBDDL/lib/byte-buddy-agent-1.9.10.jar" />
+    <archive path="C:/project/CompareDBDDL/lib/objenesis-2.6.jar" />
+    <archive path="C:/project/CompareDBDDL/lib/jsonassert-1.5.0.jar" />
+    <archive path="C:/project/CompareDBDDL/lib/android-json-0.0.20131108.vaadin1.jar" />
+    <archive path="C:/project/CompareDBDDL/lib/spring-core-5.2.0.RELEASE.jar" />
+    <archive path="C:/project/CompareDBDDL/lib/spring-jcl-5.2.0.RELEASE.jar" />
+    <archive path="C:/project/CompareDBDDL/lib/spring-test-5.2.0.RELEASE.jar" />
+    <archive path="C:/project/CompareDBDDL/lib/xmlunit-core-2.6.3.jar" />
+  </library>
+  <library name="postgresql:postgresql:9.0-801.jdbc4">
+    <archive path="C:/Users/Admin/.m2/repository/postgresql/postgresql/9.0-801.jdbc4/postgresql-9.0-801.jdbc4.jar" />
+  </library>
+</eclipse-userlibraries>
+

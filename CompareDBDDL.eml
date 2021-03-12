@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/CompareDBDDL"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<levels>
+		<level name="com.microsoft.sqlserver:mssql-jdbc:6.4.0.jre7" value="project"/>
+		<level name="postgresql:postgresql:9.0-801.jdbc4" value="project"/>
+		<level name="mysql:mysql-connector-java:8.0.19" value="project"/>
+		<level name="ojdbc6-11.2.0.3" value="project"/>
+		<level name="org.springframework.boot:spring-boot-starter-test:2.2.0.RELEASE" value="project"/>
+		<level name="org.apache.commons:commons-vfs2:2.0" value="project"/>
+		<level name="commons-io-2.5" value="project"/>
+		<level name="org.dbunit:dbunit:2.4.9" value="project"/>
+	</levels>
+</component>
